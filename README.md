@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" alt="drawing" width="200" display: inline;/>
+<img  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" alt="drawing" width="200" />
 <p display: inline;>Passionate about programming since the age of 11 I started with Visual Basic and .NET, then focused on application development on Unity3D in C# my experiences also led me to learn about 3D Modeling rigging , Photoshop and Pyhton.</p>
 <!--
 **Finnthahooman/Finnthahooman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
